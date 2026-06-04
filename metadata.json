@@ -1,0 +1,6 @@
+{
+  "name": "Web Video Editor",
+  "description": "A fully browser-based, interactive video editing platform featuring timeline track management, precise slicing/cutting, timeline trimming, visual filtering, text overlays, playhead seek controls, and direct video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
